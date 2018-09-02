@@ -1,0 +1,14 @@
+{
+  "name": "modern_portfolio_sept",
+  "version": "1.0.0",
+  "description": "my_portfolio_sept",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Viktor Shevchenko",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
